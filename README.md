@@ -1,6 +1,6 @@
 # Brachial_plexus_image_segmentation_UNet
 We have used U-Net to segment brachial plexus images and a GUI application to use the trained model to make prediction process hassle free.
-Fellow team mate "https://github.com/Programmerlogic".
+
 # The U-Net architecture used:
 ![Unet_architecture](https://github.com/Tejas1945/Brachial_plexus_image_segmentation_UNet/assets/128411813/52f46269-e33a-4550-83bd-7aee95c96d1d)
 
